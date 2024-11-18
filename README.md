@@ -21,11 +21,6 @@ Meu nome é Káthia Rocha, tenho 29 anos e sou desenvolvedora Front-End. Também
 ![Node.js](https://img.shields.io/badge/-Node.js-800080?style=for-the-badge&logo=node.js&labelColor=800080)&nbsp;
 ![Python](https://img.shields.io/badge/python-800080?style=for-the-badge&logo=python&logoColor=white&labelColor=800080)&nbsp;
 
----
-
-### Estudando Para Aprimorar:
-![TypeScript](https://img.shields.io/badge/-TypeScript-800080?style=for-the-badge&logo=typescript&labelColor=800080)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-800080?style=for-the-badge&logo=node.js&labelColor=800080)&nbsp;
 
 ---
 
