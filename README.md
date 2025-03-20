@@ -2,7 +2,7 @@
 
 # Olá, Mundo! 👋🌟
 <p>
-Meu nome é Káthia Rocha, tenho 29 anos e sou desenvolvedora Front-End. Também atuo como professora de Desenvolvimento Full Stack, compartilhando meu conhecimento, ajudando outras pessoas ingressarem na área de tecnologia.
+Meu nome é Káthia Rocha, tenho 29 anos e sou desenvolvedora Full Stack. Também atuo como professora de Desenvolvimento Full Stack, compartilhando meu conhecimento, ajudando outras pessoas ingressarem na área de tecnologia.
 
 </p>
 
