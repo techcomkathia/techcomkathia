@@ -8,9 +8,6 @@ Meu nome é Káthia Rocha, tenho 29 anos e sou desenvolvedora Full Stack. També
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=techcomkathia&theme=dracula&custom_title=Minhas%20Contribuições%20Recentes" alt="Gráfico de Atividades de techcomkathia" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techcomkathia&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub de techcomkathia" />
-</p>
 
 ### Principais Habilidades:
 
